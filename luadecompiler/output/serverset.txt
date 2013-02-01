@@ -1,0 +1,20 @@
+//ID	Server Name	Region	Gate	...
+1	Suggest: Mist Isle	¢ñ Dream Island	72.172.238.17	0	0	0	0
+2	Suggest: Moonlight Isle	¢ñ Dream Island	72.172.238.23	0	0	0	0
+3	Rainbow Isle	¢ñ Dream Island	72.172.238.5	0	0	0	0
+4	Mermaid Isle	¢ñ Dream Island	72.172.238.8	0	0	0	0
+5	Coral Isle	¢ñ Dream Island	72.172.238.11	0	0	0	0
+6	Penguin Isle	¢ñ Dream Island	72.172.238.14	0	0	0	0
+7	Mist Isle	¢ñ Dream Island	72.172.238.17	0	0	0	0
+8	Sunset Isle	¢ñ Dream Island	72.172.238.20	0	0	0	0
+9	Moonlight Isle	¢ñ Dream Island	72.172.238.23	0	0	0	0
+10	Azure Isle	¢ñ Dream Island	72.172.238.26	0	0	0	0
+11	Suggest:Frozen Sea	¢ò Mystic Ocean	72.172.239.57	0	0	0	0
+12	Suggest:Crimson Sea	¢ò Mystic Ocean	72.172.238.46	0	0	0	0
+13	Aegean Sea	¢ò Mystic Ocean	72.172.238.32	0	0	0	0
+14	Midnight Sea	¢ò Mystic Ocean	72.172.238.35	0	0	0	0
+15	Relic Sea	¢ò Mystic Ocean	72.172.238.59	0	0	0	0
+16	Cloud sea	¢ò Mystic Ocean	72.172.238.41	0	0	0	0
+17	Holy Sea	¢ò Mystic Ocean	72.172.238.44	0	0	0	0
+18	Crimson Sea	¢ò Mystic Ocean	72.172.238.46	0	0	0	0
+19	Frozen Sea(new)	¢ò Mystic Ocean	72.172.239.57	0	0	0	0

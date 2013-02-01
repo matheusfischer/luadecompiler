@@ -1,0 +1,7 @@
+------------------------------------------------------------------------------------
+-- LuaDecompiler [ver 0.0.1]
+------------------------------------------------------------------------------------
+-- Project created by Octie @ serverdev.net, on fully educational purposes,
+-- saying that, I also state that the complete source code of this script
+-- is also availible to anyone, which also has an interest of learning.
+------------------------------------------------------------------------------------
